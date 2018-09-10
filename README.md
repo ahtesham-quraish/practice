@@ -1,3 +1,5 @@
+
+<a href="https://codeclimate.com/github/ahtesham-quraish/practice/test_coverage"><img src="https://api.codeclimate.com/v1/badges/fe8758043588dea922db/test_coverage" /></a>
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
