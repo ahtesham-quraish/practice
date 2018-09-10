@@ -15,8 +15,6 @@ deploy:
   on:
     branch: master
 before_install:
-before_script:
-  - npm install -d
 after_success:
   - codeclimate < ./coverage/lcov.info
 addons:
