@@ -16,7 +16,6 @@ deploy:
     branch: master
 before_install:
 before_script:
-  - npm install -g grunt-cli
   - npm install -d
 after_success:
   - codeclimate < ./coverage/lcov.info
